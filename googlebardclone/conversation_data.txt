@@ -1,0 +1,10 @@
+{
+    'greetings': ['hello', 'hi', 'hey', 'hola'],
+    'goodbye': ['bye', 'goodbye', 'see you later'],
+    'thanks': ['thanks', 'thank you', 'appreciate it'],
+    'questions': ['how are you?', 'what is your name?', 'who created you?'],
+    # Add more categories and related questions/responses below
+    'personal_info': ['What is your favorite color?', 'Do you have any siblings?'],
+    'history': ['Tell me about your past', 'What happened yesterday?']
+    # ... and so on
+}
